@@ -1,4 +1,4 @@
-import liveBar from '../liveBar.js';
+import liveBar from '../livebar.js';
 
 test('Функция liveBar должна правильно выводить уровень здоровья', () => {
   const healthLevels = [
